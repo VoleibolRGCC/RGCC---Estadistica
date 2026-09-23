@@ -1,0 +1,10 @@
+{
+  "name": "RGCC Estadística Voleibol",
+  "short_name": "RGCC Stats",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#03192f",
+  "theme_color": "#063a66"
+}
