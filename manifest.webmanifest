@@ -1,0 +1,9 @@
+{
+  "name": "RGCC Estadística Voleibol Femenino",
+  "short_name": "RGCC Femenino",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b2f6b",
+  "description": "Estadística de voleibol femenino RGCC"
+}
